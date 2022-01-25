@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469613809910",
+    "project_id": "todo-crud-3fb90",
+    "storage_bucket": "todo-crud-3fb90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469613809910:android:bdf5088105752bc58b9cd7",
+        "android_client_info": {
+          "package_name": "com.rocketseat.crud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469613809910-ng0qjeii6gemkbfjoedlhl03v6sdiei2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rocketseat.crud_firebase",
+            "certificate_hash": "6956bec124a4a2ec35180f944d35a772df5ddb78"
+          }
+        },
+        {
+          "client_id": "469613809910-j297fr62v021j90aeqt4qsvn6cb7hrg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmju8No_LFpAU_8Hf0vjvGJYR-FysO74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469613809910-j297fr62v021j90aeqt4qsvn6cb7hrg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,7 +9,7 @@ part 'home_page_store.g.dart';
 class HomePageStore = _HomePageStore with _$HomePageStore;
 
 abstract class _HomePageStore with Store {
-  static final ToDoDataSourceInterface _toDoRemoteDS = ToDoLocalDataSource();
+  static final ToDoDataSourceInterface _toDoRemoteDS = ToDoRemoteDataSource();
 
   @observable
   var toDoListStream = _toDoRemoteDS.fetchToDoListStream().asObservable();

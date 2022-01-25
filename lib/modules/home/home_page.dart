@@ -138,7 +138,7 @@ class ToDoItemListView extends StatelessWidget {
             gradient: index.isEven
                 ? const LinearGradient(
                     colors: [
-                      Color(0xFFC4C4C4),
+                      Color(0xFFE4E4E4),
                       Color(0xFFFFFFFF),
                     ],
                   )
